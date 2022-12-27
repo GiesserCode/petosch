@@ -38,7 +38,7 @@ body {
     vertical-align: middle;
     font-family: 'Nunito', sans-serif;
     font: 32px;
-    font-size: 3vw;
+    font-size: 3rem;
     font-weight: 3rem;
 }
 
@@ -99,7 +99,7 @@ li:hover {
 }
 
 .title{
-    font-size: 3vw;
+    font-size: 3rem;
     text-align: center;
     padding-top: 20px;
     transition: all 0.3s;
@@ -112,12 +112,12 @@ li:hover {
 
 .despetosch{
     text-align: center;
-    font-size: 2vw;
+    font-size: 2rem;
     font-family:'nunito', sans-serif;
 }
 
 .destext{
-    font-size: 2vw;
+    font-size: 2rem;
     padding: 5%;
     transition: all 1s;
     text-align: center;
@@ -128,7 +128,7 @@ li:hover {
     background-color: red;
     border: none;
     text-align: center;
-    font-size: 2vw;
+    font-size: 2rem;
     border: 50px;
     border-radius: 50px;
     transition: all 0.5 s;
